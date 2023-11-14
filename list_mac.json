@@ -1,0 +1,13 @@
+{
+    "mac" : [
+        {
+            "id" : 1,
+            "code" : "#",
+            "name" : "", 
+            "stock" : "Available in stock",
+            "price" : "",
+            "imageUrl" : "",
+            "description" : ""
+        }
+    ]
+}

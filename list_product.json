@@ -1,0 +1,24 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "code" : "#27091",
+            "model":  "ASUS",
+            "name" : "ASUS GAMMING",
+            "stock" : "Available in stock",
+            "price" : "1099",
+            "imageUrl" : "",
+            "description" : "12th Intel® Core™ i5 processor 8 GB memory 512 GB SSD storage Windows 11 Home in S Mode - ASUS recommends Windows 11 Pro for business, Free Upgrade to Windows 11¹ (when available, see below)"
+        },
+        {
+            "id" : 2,
+            "code" : "#",
+            "model":  "",
+            "name" : "",
+            "stock" : "Non Available in stock",
+            "price" : "",
+            "imageUrl" : "",
+            "description" : ""
+        }
+    ]
+}
